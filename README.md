@@ -47,5 +47,5 @@ This project is a simple E-Shop application built with ASP.NET Core. It allows u
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/yourusername/OrangeEshop.git
+   cd OrangeEshop
